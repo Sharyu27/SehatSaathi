@@ -196,29 +196,6 @@ SPEECH_SPEED     = 150
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Follow these steps:
-
-1. **Fork** the repository
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Make your changes and commit:
-   ```bash
-   git commit -m "Add: your feature description"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a **Pull Request** on GitHub
-
-Please make sure your code follows the existing structure and is well-commented.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — feel free to use, modify, and distribute with attribution.
