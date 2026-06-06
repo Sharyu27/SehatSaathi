@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pandas
+matplotlib
+pillow
+gTTS
+SpeechRecognition
+pyttsx3
+sounddevice
+mysql-connector-python
